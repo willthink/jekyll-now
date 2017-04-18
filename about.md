@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a motivated and experienced mobile App developer. I have experience on both iOS and Android. Also I have
+experience on Linux Socket programming
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I'm WEEE
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[weizong2048@gmail.com](mailto:weizong2048@gmail.com)
