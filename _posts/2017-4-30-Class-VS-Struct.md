@@ -96,7 +96,7 @@ In addition to `struct`, `Array`, `String`, `Dictionary` are all value types
 ## What else?
 The ability to extend a `struct` makes Swift a Protocol Oriented Programming ready language. This is an interesting topic to talk about in the next blogs 
 
-
+[Playground code available](https://github.com/willthink/willthink.github.io/tree/master/_code/ClassVsStruct.playground)
  
 
 
