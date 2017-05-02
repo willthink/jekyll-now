@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "A constant Swift interview question -> Struct vs Class"
-date:   2017-04-30 11:21:01 
+date:   2017-04-30 11:21:01
+comments: true  
 categories: Swift
 ---
 
@@ -97,7 +98,4 @@ In addition to `struct`, `Array`, `String`, `Dictionary` are all value types
 The ability to extend a `struct` makes Swift a Protocol Oriented Programming ready language. This is an interesting topic to talk about in the next blogs 
 
 [Playground code available](https://github.com/willthink/willthink.github.io/tree/master/_code/ClassVsStruct.playground)
- 
-
-
 
